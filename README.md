@@ -40,7 +40,7 @@ pip3 install -r requerimientos.txt
 ```
 
 ## Personas Desarrolladoras del Proyecto:
-ianCristianAriel
+[ianCristianAriel](https://github.com/ianCristianAriel)
 
 ## Licencia
 Prueba tecnica: [Bprosys](https://www.linkedin.com/company/bprosys)
