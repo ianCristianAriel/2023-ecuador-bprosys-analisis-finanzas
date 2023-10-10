@@ -1,41 +1,46 @@
-## Descripción
-Este repositorio contiene soluciones para la prueba técnica de la empresa Bprosys. En esta prueba, se abordan consultas SQL diseñadas para enfrentar el desafío de conciliación de transacciones entre la empresa hipotética CLAP y su aliado SIMETRIK. El proceso crítico consiste en verificar y comparar transacciones registradas en las bases de datos de CLAP y su banco asociado, BANSUR.
+<!-- ![Portada del Proyecto](./imagenes/portada.png) -->
 
-### Estado del Proyecto
-**Finalizado**
+## Estado del Proyecto
+**Fase beta**
 
-### Estructura de Directorios y Archivos
+## Estructura de Directorios y Archivos Resultantes
 
     Prueba Técnica Bprosys
     │
     ├── datos
-    │   ├── csv                <- Archivos .csv
-    │   │   ├── brutos         <- Archivos base
-    │   │   └── procesados     <- Archivos limpios
-    │   └── sql                <- Bases de datos y queries DDL
+    │ ├── procesados # Archivos .csv procesados
+    │ └── brutos # Archivos base
     │
-    ├── notebooks              <- Notebooks divididos por etapas del proyecto
-    |
-    ├── .gitignore             <- Archivos ignorados por Git
+    ├── notebooks # Notebooks divididos por etapas del proyecto
     │
-    ├── requerimientos.txt     <- Paquetes y dependencias
-    │   
-    └── README.md              <- Detalles por escrito
+    ├── .gitignore # Archivos a ignorar por Git
+    │
+    ├── requerimientos.txt # Paquetes y dependencias
+    │
+    └── README.md # Detalles por escrito
 
-### Funciones y Aplicaciones
+## Funciones y Aplicaciones
 - **Limpieza**
 - **Valores nulos**
 - **Consultas SQL:**
   - **DDL**
   - **DML**
 
-### Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - Python
   - Numpy
   - Pandas
   - Matplotlib
   - Sqlite3
 
-#### Instalación de Paquetes
+### Instalación de Paquetes
 
-`pip3 install requerimientos.txt`
+```bash
+pip3 install -r requerimientos.txt
+```
+
+## Personas Desarrolladoras del Proyecto:
+ianCristianAriel
+
+## Licencia
+Prueba tecnica: [Bprosys](https://www.linkedin.com/company/bprosys)
