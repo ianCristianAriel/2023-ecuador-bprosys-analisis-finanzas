@@ -43,4 +43,4 @@ pip3 install -r requerimientos.txt
 - [ianCristianAriel](https://github.com/ianCristianAriel)
 
 ## Licencia
-Prueba tecnica: [Bprosys](https://www.linkedin.com/company/bprosys)
+- Prueba tecnica: [Bprosys](https://www.linkedin.com/company/bprosys)
